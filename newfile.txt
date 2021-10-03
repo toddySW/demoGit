@@ -1,2 +1,4 @@
 hello git! I'm duy
+Add new line
 May 2 Them dong moi
+
